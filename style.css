@@ -1,0 +1,17 @@
+/* .container{
+    border: 2px solid black;
+} */
+#bgc{
+    background: url(bird-7403593.jpg) no-repeat 0 0;
+    background-size: cover;
+    
+}
+.mt-6 {
+    margin-top: 9rem !important;
+}
+.ms-6 {
+    margin: auto !important;
+    width: 50%;
+}
+
+
